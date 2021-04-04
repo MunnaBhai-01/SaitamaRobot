@@ -15,18 +15,18 @@
 <a href="http://hits.dwyl.com/animekaizoku/saitamarobot" alt="HitCount"> <img src="http://hits.dwyl.com/animekaizoku/saitamarobot.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/animekaizoku/saitamarobot?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/animekaizoku/saitamarobot" /> </a>
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/animekaizoku/saitamarobot?style=flat&logo=github" /> </a>
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/AnimeKaizoku/SaitamaRobot?label=Forks&logo=github" /> </a>
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/animekaizoku/saitamarobot?color=success" /> </a>
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/animekaizoku/saitamarobot?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/MunnaBhai-01/SaitamaRobot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/MunnaBhai-01/saitamarobot?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/MunnaBhai-01/SaitamaRobot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/MunnaBhai-01/saitamarobot" /> </a>
+<a href="https://github.com/MunnaBhai-01/SaitamaRobot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/MunnaBhai-01/saitamarobot?style=flat&logo=github" /> </a>
+<a href="https://github.com/MunnaBhai-01/SaitamaRobot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/MunnaBhai-01/SaitamaRobot?label=Forks&logo=github" /> </a>
+<a href="https://github.com/MunnaBhai-01/SaitamaRobot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/MunnaBhai-01/saitamarobot?color=success" /> </a>
+<a href="https://github.com/MunnaBhai-01/SaitamaRobot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/animekaizoku/saitamarobot?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/MunnaBhai-01/SaitamaRobot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/animekaizoku/saitamarobot?include_prereleases?style=flat&logo=github" /> </a>
+<a href="https://github.com/MunnaBhai-01/SaitamaRobot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/MunnaBhai-01/saitamarobot?include_prereleases?style=flat&logo=github" /> </a>
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
 <a href="https://github.com/MunnaBhai-01/SaitamaRobot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/MunnaBhai-01/SaitamaRobot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/animekaizoku/saitamarobot" /> </a>
+<a href="https://github.com/MunnaBhai-01/SaitamaRobot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/MunnaBhai-01/saitamarobot" /> </a>
 <a href="https://github.com/MunnaBhai-01/SaitamaRobot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
