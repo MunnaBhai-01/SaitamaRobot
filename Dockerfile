@@ -64,12 +64,12 @@ RUN apt update && apt upgrade -y && \
 # Pypi package Repo upgrade
 RUN pip3 install --upgrade pip setuptools
 
-# Copy Python Requirements to /root/SaitamaRobot
-RUN git clone -b shiken https://github.com/AnimeKaizoku/SaitamaRobot /root/SaitamaRobot
-WORKDIR /root/SaitamaRobot
+# Copy Python Requirements to /root/SarcasticRobot
+RUN git clone -b shiken https://github.com/MunnaBhai-01/SaitamaRobot /root/SarcasticRobot
+WORKDIR /root/SarcasticRobot
 
-#Copy config file to /root/SaitamaRobot/SaitamaRobot
-COPY ./SaitamaRobot/sample_config.py ./SaitamaRobot/config.py* /root/SaitamaRobot/SaitamaRobot/
+#Copy config file to /root/SarcasticRobot/SarcasticRobot
+COPY ./SarcasticRobot/sample_config.py ./SarcasticRobot/config.py* /root/SarcasticRobot/SarcasticRobot/
 
 ENV PATH="/home/bot/bin:$PATH"
 
