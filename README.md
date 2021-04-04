@@ -22,7 +22,7 @@ Deploy Sarcastic Robot to Heroku:
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/MunnaBhai-01/SaitamaRobot/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
-Sarcastic Robot is a simple one-punch solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
+Sarcastic Robot is a simple Bot For your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
 
 * Bot Link:  <a href="https://t.me/SarcasticGroupRobot" alt="SarcasticGroupRobot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SarcasticGroupRobot-blue" /> </a>
 * News channel: <a  href="https://t.me/SarcasticsNews" alt="One Punch Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Sarcastic%20Robot%20News-9cf" /> </a>
