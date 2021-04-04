@@ -38,6 +38,9 @@
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
+Deploy Mr.SarcasticLover to Heroku:
+
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/MunnaBhai-01/SaitamaRobot/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 
 Saitama is a simple one-punch solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
