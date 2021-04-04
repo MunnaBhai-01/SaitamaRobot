@@ -1,4 +1,4 @@
 @echo off
-TITLE Saitama Robot
-:: Enables virtual env mode and then starts saitama
-env\scripts\activate.bat && py -m SaitamaRobot
+TITLE SarcasticLoverRobot
+:: Enables virtual env mode and then starts SarcasticLover
+env\scripts\activate.bat && py -m SarcasticLoverRobot
