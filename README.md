@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://t.me/SarcasticsGroupRobot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 <a href="https://github.com/MunnaBhai-01/SaitamaRobot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg" /> </a>
-[![Maintained By](https://img.shields.io/badge/Maintained-By-green.svg)](https://t.me/SarcasticLucky)
+<a href="https://img.shields.io/badge/Maintained-By-green.svg)](https://t.me/SarcasticLucky)
 
 Deploy Sarcastic Robot to Heroku:
 
