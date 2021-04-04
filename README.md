@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/9066b2ad4b5ae6974c5e1.jpg">
 </p>
 
-# SarcasticLoverRobot
+# SarcasticRobot
 
 <p align="center">
 - x -|│  “	Just some code who is a bot for fun. ”  │| - x -
