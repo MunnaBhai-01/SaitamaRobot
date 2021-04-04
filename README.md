@@ -1,4 +1,4 @@
-# Mr.SarcasticLover - A Telegram Bot Project
+# SarcasticRobot - A Telegram Bot Project
 
 > ⭐️ Thanks to everyone who has starred the project, it means a lot !
 
