@@ -80,7 +80,7 @@ You Can Find My List Of Available Commands With /help.
 """
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
+Hey there! My name is *{SARCASTIC ROBOT}*.
 I'm a Hero For Fun and help admins manage their groups with One Punch! Have a look at the following for an idea of some of \
 the things I can help you with.
 
@@ -102,10 +102,6 @@ And the following:
 
 SARCASTIC_IMG = "https://telegra.ph/file/46e6d9dfcb3eb9eae95d9.jpg"
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
- Supporting isnt always financial! \
- Those who cannot provide monetary support are welcome to help us develop the bot at @OnePunchDev."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -212,7 +208,7 @@ def start(update: Update, context: CallbackContext):
         else:
             first_name = update.effective_user.first_name
             update.effective_message.reply_photo(
-                SAITAMA_IMG,
+                SARCASTIC_IMG,
                 PM_START_TEXT.format(
                     escape_markdown(first_name), escape_markdown(context.bot.first_name)
                 ),
