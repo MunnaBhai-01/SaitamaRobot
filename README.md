@@ -1,3 +1,7 @@
+# Mr.SarcasticLover - A Telegram Bot Project
+
+> ⭐️ Thanks to everyone who has starred the project, it means a lot !
+
 <p align="center">
   <img src="https://telegra.ph/file/9066b2ad4b5ae6974c5e1.jpg">
 </p>
