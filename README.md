@@ -30,3 +30,8 @@ Should you be forking this repo then do not forget to star it - <img alt="GitHub
 ## Credits 📍
 * Well, it's all in the commit history 
 Feel free to open pull requests should any be missing.
+
+
+For any assistance you may join our OT chat [here](https://t.me/SarcasticsGroupRobot)<br />
+You may get ban if you ask how to deploy in our support chat.
+
