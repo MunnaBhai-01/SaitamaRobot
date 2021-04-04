@@ -8,7 +8,6 @@
 - x -|│  “	Just some code who is a bot for fun. ”  │| - x -
 </p>
 <p align="center">
-<a href="https://github.com/MunnaBhai-01/SaitamaRobot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/MunnaBhai-01/saitamarobot?include_prereleases?style=flat&logo=github" /> </a>
 <a href="https://github.com/MunnaBhai-01/SaitamaRobot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/MunnaBhai-01/saitamarobot" /> </a>
 <a href="https://github.com/MunnaBhai-01/SaitamaRobot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
