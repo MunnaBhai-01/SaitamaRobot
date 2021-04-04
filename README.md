@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://wallpaperscave.com/images/original/18/04-25/anime-one-punch-man-44886.jpg">
+  <img src="https://telegra.ph/file/9066b2ad4b5ae6974c5e1.jpg">
 </p>
 
 # SarcasticLoverRobot
