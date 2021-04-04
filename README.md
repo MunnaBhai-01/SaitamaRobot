@@ -7,21 +7,6 @@
 <p align="center">
 - x -|│  “	Just some code who is a bot for fun. ”  │| - x -
 </p>
-
-<p align="center">
-<a href="https://app.codacy.com/gh/AnimeKaizoku/SaitamaRobot?utm_source=github.com&utm_medium=referral&utm_content=AnimeKaizoku/SaitamaRobot&utm_campaign=Badge_Grade_Settings" alt="Codacy Badge">
-<img src="https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51" /> </a>
-<a href="https://github.com/AnimeKaizoku/SaitamaRobot" alt="Libraries.io dependency status for GitHub repo"> <img src="https://img.shields.io/librariesio/github/animekaizoku/SaitamaRobot" /> </a>
-<a href="http://hits.dwyl.com/animekaizoku/saitamarobot" alt="HitCount"> <img src="http://hits.dwyl.com/animekaizoku/saitamarobot.svg" /> </a>
-</p>
-<p align="center">
-<a href="https://github.com/MunnaBhai-01/SaitamaRobot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/MunnaBhai-01/saitamarobot?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/MunnaBhai-01/SaitamaRobot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/MunnaBhai-01/saitamarobot" /> </a>
-<a href="https://github.com/MunnaBhai-01/SaitamaRobot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/MunnaBhai-01/saitamarobot?style=flat&logo=github" /> </a>
-<a href="https://github.com/MunnaBhai-01/SaitamaRobot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/MunnaBhai-01/SaitamaRobot?label=Forks&logo=github" /> </a>
-<a href="https://github.com/MunnaBhai-01/SaitamaRobot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/MunnaBhai-01/saitamarobot?color=success" /> </a>
-<a href="https://github.com/MunnaBhai-01/SaitamaRobot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/animekaizoku/saitamarobot?style=flat&logo=github&color=yellow" /> </a>
-</p>
 <p align="center">
 <a href="https://github.com/MunnaBhai-01/SaitamaRobot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/MunnaBhai-01/saitamarobot?include_prereleases?style=flat&logo=github" /> </a>
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
